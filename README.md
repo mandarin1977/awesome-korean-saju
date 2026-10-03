@@ -41,6 +41,7 @@ The system is closely related to but distinct from:
 
 - **[fortunmanse](https://fortunmanse.com)** — 무료 만세력 사이트. 생년월일시 입력 시 사주팔자, 대운, 세운, 십성, 신살, 12운성, 지장간을 즉시 계산. 회원가입 불필요, 입력값 서버 미전송. 라이더-웨이트 타로 78장 풀이 포함. 모바일 UI 깔끔, 매력 신살(도화/홍염/목욕) 분석 제공. *Free Korean manseryeok web app with full Saju analysis, day-pillar (Iljoo) interpretation, and Rider-Waite tarot.*
 - **[포스텔러 만세력](https://forceteller.com)** — 앱 기반, 시각화 친화적. 네이버 운세와 연동.
+- **[Karma](https://karma.archerlab.dev)** - 무료 사주 풀이 사이트. 생년월일로 사주팔자, 오늘의 운세, 신년운세, 궁합, 타로를 회원가입 없이 이용. 오락·문화 해석 목적이며 전문 상담이 아님. *Free Korean saju reading site with daily fortune, compatibility, and tarot; no signup.*
 
 ### 정통 명리 / 공부용 (Traditional, study-oriented)
 
