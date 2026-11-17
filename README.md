@@ -186,7 +186,8 @@ Each Earthly Branch contains 2–3 Heavenly Stems hidden within it, distributed 
 ### Online References
 - [Wikipedia: Saju (Korean)](https://ko.wikipedia.org/wiki/사주)
 - [Wikipedia: Four Pillars of Destiny (English)](https://en.wikipedia.org/wiki/Four_Pillars_of_Destiny)
-- [한국민족문화대백과사전 - 사주](https://encykorea.aks.ac.kr/)
+- [한국민족문화대백과사전 - 사주](https://encykorea.aks.ac.kr/Article/E0025957)
+- [Reading ilgan and ilju](https://bazi-diff.pages.dev/guides/bazi-day-master/?utm_source=github_case&utm_medium=community&utm_campaign=awesome_korean_saju#saju-day-stem) (English) — Compares the Korean terms with Day Master and day pillar, using a runnable fictional Chinese BaZi chart.
 
 ---
 
